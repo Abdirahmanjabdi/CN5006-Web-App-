@@ -1,1 +1,1 @@
-this for CN5006 everything from week 1 to 6 is here 
+This is week 1 introduction to javaScript
