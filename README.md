@@ -1,1 +1,1 @@
-This week is the introduction to react programming
+This week marks the introduction to React programming. Although the original code was accidentally deleted, the portfolio still contains all relevant screenshots, explanations, and a comprehensive Q&A section to support your understanding.
