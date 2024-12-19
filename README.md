@@ -1,1 +1,1 @@
-this for CN5006 everything from week 1 to 6 is here 
+This week is the introduction to react programming
